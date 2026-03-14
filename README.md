@@ -29,3 +29,6 @@ Higher economic growth rates are positively associated with improvements in over
 
 Explanation:
 Economic growth can increase employment opportunities, income levels, and government spending on social services, which may enhance well-being.
+
+https://excalidraw.com/#json=a9CljaSf6j9uyXquBWZhW,e7xF8rnpojTzvvXvK0zjHA
+
