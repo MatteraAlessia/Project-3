@@ -30,7 +30,7 @@ The dataset is normalized into four relational tables:
 - `macroeconomic_indicators`
 - `country`
 
-![Database Schema](schema image.png)
+![Database Schema](schema-image.png)
 
 ---
 
