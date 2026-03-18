@@ -36,7 +36,7 @@ The dataset is normalized into four relational tables:
 
 ## Project Structure
 
-PROJECT-3/
+```
 ├── README.md
 ├── schema image.png
 
@@ -69,7 +69,7 @@ PROJECT-3/
 ├── data-processing.ipynb # Data cleaning & transformation
 ├── data-analysis.ipynb # Main exploratory analysis
 ├── final_analysis.ipynb # Final analysis with visuals
-
+```
 
 ---
 
